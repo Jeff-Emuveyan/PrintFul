@@ -2,7 +2,7 @@
 
 An app that displays list of users from a remote source. It also has offline support.
 
-<img src="https://firebasestorage.googleapis.com/v0/b/uploadvideo-4d8f6.appspot.com/o/Screenshot_20210204_031305.png?alt=media&token=10a4b440-5466-4df6-acc4-0a264c844dd8=download.type" width="300" height="650">
+<img src="https://firebasestorage.googleapis.com/v0/b/uploadvideo-4d8f6.appspot.com/o/Screenshot_20210204_031326.png?alt=media&token=a75ffda4a-eabc-400e-9633-b41e7c20492e" width="300" height="650">
 
 ## Dependencies
 - Room
