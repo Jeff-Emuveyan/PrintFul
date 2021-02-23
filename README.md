@@ -1,4 +1,4 @@
-# PrintFul Test Task
+# Test Task
 
 An app that displays list of users from a remote source. It also has offline support.
 
